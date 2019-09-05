@@ -9,3 +9,5 @@
 ![AltText](https://github.com/Fatan169/Job-Sheet-Operator/blob/master/challange1%20-%20NetBeans%20IDE%208.2%209_5_2019%2012_51_03%20PM.png "Hasil Empat")
 # HasilLima
 ![AltText](https://github.com/Fatan169/Job-Sheet-Operator/blob/master/challange1%20-%20NetBeans%20IDE%208.2%209_5_2019%2012_51_19%20PM.png "Hasil Lima")
+# HasilEnam
+![AltText](https://github.com/Fatan169/Job-Sheet-Operator/blob/master/perulangan.png "Hasil Enam")
